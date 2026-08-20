@@ -2,7 +2,7 @@
 
 **Project:** Basic Chatbot  
 **Internship:** CodeAlpha Python Internship  
-**Author:** Aashu Raj  
+
 
 ---
 
